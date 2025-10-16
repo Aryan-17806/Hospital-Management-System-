@@ -19,4 +19,4 @@ Developed a console-based **Hospital Management System** to efficiently manage p
 ## Usage
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/HospitalManagementSystem.git
+   [git clone https://github.com/yourusername/HospitalManagementSystem.git](https://github.com/Aryan-17806/Hospital-Management-System-.git)
